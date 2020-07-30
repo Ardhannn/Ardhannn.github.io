@@ -1,0 +1,258 @@
+.backgroundtour {
+    position: absolute;
+    width: 1265px;
+    height: 650px;
+    background-color: #D3D3D3;
+}
+.tourback {
+    position: absolute;
+    width: 1225px;
+    height: 600px;
+    top: 23px;
+    left: 18px;
+    background-color: white;
+}
+.tourleft {
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 0px;
+}
+.titletour {
+    position: absolute;
+    top: 0px;
+    height: 25px;
+    width: 500px;
+    background-color:
+}
+.iti {
+    top: -12px;
+    position: absolute;
+    font-size: 12px;
+    font-family: "Lucida Console", Monaco, monospace;
+} 
+.iti h3{
+    color: black;
+}
+.ket {
+    top: 0px;
+    left: 120px;
+    position: absolute;
+    font-size: 12px;
+
+}
+.price {
+    top: 0px;
+    left: 150px;
+    position: absolute;
+    font-size: 12px;
+}
+.komen { 
+    top: 0px;
+    left: 140px;
+    position: absolute;
+    font-size: 12px;
+}
+.lefttour {
+    position: absolute;
+    width: 40px;
+    left: -410px;
+    top: 37px;
+    height: 525px;
+    background-color:
+}
+.lefttour img {
+    position: absolute;
+    left: -5px;
+    top: 10px;
+    width: 50px;
+    height: 50px;
+}
+.midtour {
+    position: absolute;
+    width: 150px;
+    height: 525px;
+    left: 40px;
+    background-color:
+}
+.righttour {
+    position: absolute;
+    height: 525px;
+    left: 189px;
+    width: 411px;
+    background-color:
+}
+.oneday {
+    font-size: 12px;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 18px;
+}
+.onetime {
+    font-size: 12px;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 23px;
+}
+.righttour img {
+    position: absolute;
+    width: 30px;
+    left: -3px;
+    top: 5px;
+    height: 30px;
+}
+.topright {
+    position: relative;
+    left: 25px;
+    top: 12px;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+.topright2 {
+    position: relative;
+    top: 20px;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+    line-height: 1.5;
+    font-size: 14px;
+}
+.kedua img {
+    position: absolute;
+    top: 240px;
+}
+.twoday {
+    position: relative;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+    top: 220px;
+    text-align: center;
+}
+.twotime {
+    position: relative;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+    top: 225px;
+    text-align: center;
+}
+.loktwo img {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 240px;
+}
+.midright {
+    position: relative;
+    top: 40px;
+    left: 25px;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+.midright2 {
+    position: relative;
+    top: 50px;
+    font-size: 14px;
+    line-height: 1.5;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+}
+.righttour2 {
+    position: relative;
+    width: 600px;
+    height: 525px;
+    left: 625px;
+    background-color:
+}
+.tourrightleft {
+    width: 40px;
+    height: 450px;
+    left: 0px;
+    position: absolute;
+    background-color:
+}
+.tourrightmid {
+    width: 150px;
+    height: 450px;
+    left: 40px;
+    position: relative;
+    background-color:
+}
+.tourrightt {
+    height: 450px;
+    width: 411px;
+    top: 0px;
+    right: 0px;
+    position: absolute;
+    background-color:
+}
+.leftcar {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 50px;
+    height: 50px;
+}
+.threeday {
+    font-size: 12px;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 18px;
+}
+.threetime {
+    font-size: 12px;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 23px;
+}
+.tourrightt img {
+    position: absolute;
+    width: 30px;
+    left: -3px;
+    top: 5px;
+    height: 30px;
+}
+.rightlok {
+    position: relative;
+    top: 11px;
+    left: 25px;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+.teksright {
+    position: relative;
+    top: 20px;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+    line-height: 1.5;
+    font-size: 14px;
+}
+.mobilkananbawah img {
+    position: absolute;
+    top: 240px;
+}
+.fourday {
+    position: relative;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+    top: 220px;
+    text-align: center;
+}
+.fourtime {
+    position: relative;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+    top: 225px;
+    text-align: center;
+}
+.lokfour img {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 240px;
+}
+.lokfourright {
+    position: relative;
+    top: 40px;
+    left: 25px;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+.teksfour {
+    position: relative;
+    top: 50px;
+    font-size: 14px;
+    line-height: 1.5;
+    font-family: 'Roboto', 'Open Sans', sans-serif;
+}
